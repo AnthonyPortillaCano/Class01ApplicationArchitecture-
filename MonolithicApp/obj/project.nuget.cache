@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xoe9IASR4dk=",
+  "success": true,
+  "projectFilePath": "C:\\CURSOSNETPERSONAL2025\\Class01\\Demo\\Session01\\MonolithicApp\\MonolithicApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

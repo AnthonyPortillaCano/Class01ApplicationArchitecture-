@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CURSOSNETPERSONAL2025\\Class01\\Demo\\Session01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66152821-4F4D-4E3A-8FCB-65E0B453AC00}|SOLIDExamples\\SOLIDExamples.csproj|c:\\cursosnetpersonal2025\\class01\\demo\\session01\\solidexamples\\openclosedprinciple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66152821-4F4D-4E3A-8FCB-65E0B453AC00}|SOLIDExamples\\SOLIDExamples.csproj|solutionrelative:solidexamples\\openclosedprinciple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66152821-4F4D-4E3A-8FCB-65E0B453AC00}|SOLIDExamples\\SOLIDExamples.csproj|c:\\cursosnetpersonal2025\\class01\\demo\\session01\\solidexamples\\singleresponsibilityprinciple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66152821-4F4D-4E3A-8FCB-65E0B453AC00}|SOLIDExamples\\SOLIDExamples.csproj|solutionrelative:solidexamples\\singleresponsibilityprinciple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66152821-4F4D-4E3A-8FCB-65E0B453AC00}|SOLIDExamples\\SOLIDExamples.csproj|c:\\cursosnetpersonal2025\\class01\\demo\\session01\\solidexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66152821-4F4D-4E3A-8FCB-65E0B453AC00}|SOLIDExamples\\SOLIDExamples.csproj|solutionrelative:solidexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266873E6-E6FF-4EDA-B366-21A172BC5E01}|UserService\\UserService.csproj|c:\\cursosnetpersonal2025\\class01\\demo\\session01\\userservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266873E6-E6FF-4EDA-B366-21A172BC5E01}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9143BF-A3BA-4F8A-819B-524076403218}|MonolithicApp\\MonolithicApp.csproj|c:\\cursosnetpersonal2025\\class01\\demo\\session01\\monolithicapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9143BF-A3BA-4F8A-819B-524076403218}|MonolithicApp\\MonolithicApp.csproj|solutionrelative:monolithicapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9143BF-A3BA-4F8A-819B-524076403218}|MonolithicApp\\MonolithicApp.csproj|c:\\cursosnetpersonal2025\\class01\\demo\\session01\\monolithicapp\\monolithicapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0D9143BF-A3BA-4F8A-819B-524076403218}|MonolithicApp\\MonolithicApp.csproj|solutionrelative:monolithicapp\\monolithicapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9143BF-A3BA-4F8A-819B-524076403218}|MonolithicApp\\MonolithicApp.csproj|c:\\cursosnetpersonal2025\\class01\\demo\\session01\\monolithicapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D9143BF-A3BA-4F8A-819B-524076403218}|MonolithicApp\\MonolithicApp.csproj|solutionrelative:monolithicapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9143BF-A3BA-4F8A-819B-524076403218}|MonolithicApp\\MonolithicApp.csproj|c:\\cursosnetpersonal2025\\class01\\demo\\session01\\monolithicapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9143BF-A3BA-4F8A-819B-524076403218}|MonolithicApp\\MonolithicApp.csproj|solutionrelative:monolithicapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9143BF-A3BA-4F8A-819B-524076403218}|MonolithicApp\\MonolithicApp.csproj|c:\\cursosnetpersonal2025\\class01\\demo\\session01\\monolithicapp\\monolithicapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0D9143BF-A3BA-4F8A-819B-524076403218}|MonolithicApp\\MonolithicApp.csproj|solutionrelative:monolithicapp\\monolithicapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9143BF-A3BA-4F8A-819B-524076403218}|MonolithicApp\\MonolithicApp.csproj|c:\\cursosnetpersonal2025\\class01\\demo\\session01\\monolithicapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D9143BF-A3BA-4F8A-819B-524076403218}|MonolithicApp\\MonolithicApp.csproj|solutionrelative:monolithicapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenClosedPrinciple.cs",
+              "DocumentMoniker": "C:\\CURSOSNETPERSONAL2025\\Class01\\Demo\\Session01\\SOLIDExamples\\OpenClosedPrinciple.cs",
+              "RelativeDocumentMoniker": "SOLIDExamples\\OpenClosedPrinciple.cs",
+              "ToolTip": "C:\\CURSOSNETPERSONAL2025\\Class01\\Demo\\Session01\\SOLIDExamples\\OpenClosedPrinciple.cs",
+              "RelativeToolTip": "SOLIDExamples\\OpenClosedPrinciple.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAawGMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:18:07.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SingleResponsibilityPrinciple.cs",
+              "DocumentMoniker": "C:\\CURSOSNETPERSONAL2025\\Class01\\Demo\\Session01\\SOLIDExamples\\SingleResponsibilityPrinciple.cs",
+              "RelativeDocumentMoniker": "SOLIDExamples\\SingleResponsibilityPrinciple.cs",
+              "ToolTip": "C:\\CURSOSNETPERSONAL2025\\Class01\\Demo\\Session01\\SOLIDExamples\\SingleResponsibilityPrinciple.cs",
+              "RelativeToolTip": "SOLIDExamples\\SingleResponsibilityPrinciple.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAkwGAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:20:36.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CURSOSNETPERSONAL2025\\Class01\\Demo\\Session01\\SOLIDExamples\\Program.cs",
+              "RelativeDocumentMoniker": "SOLIDExamples\\Program.cs",
+              "ToolTip": "C:\\CURSOSNETPERSONAL2025\\Class01\\Demo\\Session01\\SOLIDExamples\\Program.cs",
+              "RelativeToolTip": "SOLIDExamples\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:19:45.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\CURSOSNETPERSONAL2025\\Class01\\Demo\\Session01\\UserService\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "UserService\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\CURSOSNETPERSONAL2025\\Class01\\Demo\\Session01\\UserService\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "UserService\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:09:45.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CURSOSNETPERSONAL2025\\Class01\\Demo\\Session01\\MonolithicApp\\Program.cs",
+              "RelativeDocumentMoniker": "MonolithicApp\\Program.cs",
+              "ToolTip": "C:\\CURSOSNETPERSONAL2025\\Class01\\Demo\\Session01\\MonolithicApp\\Program.cs",
+              "RelativeToolTip": "MonolithicApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:59:54.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MonolithicApp.http",
+              "DocumentMoniker": "C:\\CURSOSNETPERSONAL2025\\Class01\\Demo\\Session01\\MonolithicApp\\MonolithicApp.http",
+              "RelativeDocumentMoniker": "MonolithicApp\\MonolithicApp.http",
+              "ToolTip": "C:\\CURSOSNETPERSONAL2025\\Class01\\Demo\\Session01\\MonolithicApp\\MonolithicApp.http",
+              "RelativeToolTip": "MonolithicApp\\MonolithicApp.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-25T17:58:33.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MonolithicApp",
+              "DocumentMoniker": "C:\\CURSOSNETPERSONAL2025\\Class01\\Demo\\Session01\\MonolithicApp\\MonolithicApp.csproj",
+              "RelativeDocumentMoniker": "MonolithicApp\\MonolithicApp.csproj",
+              "ToolTip": "C:\\CURSOSNETPERSONAL2025\\Class01\\Demo\\Session01\\MonolithicApp\\MonolithicApp.csproj",
+              "RelativeToolTip": "MonolithicApp\\MonolithicApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-25T17:58:12.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\CURSOSNETPERSONAL2025\\Class01\\Demo\\Session01\\MonolithicApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MonolithicApp\\appsettings.json",
+              "ToolTip": "C:\\CURSOSNETPERSONAL2025\\Class01\\Demo\\Session01\\MonolithicApp\\appsettings.json",
+              "RelativeToolTip": "MonolithicApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T17:56:27.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\CURSOSNETPERSONAL2025\\Class01\\Demo\\Session01\\MonolithicApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MonolithicApp\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\CURSOSNETPERSONAL2025\\Class01\\Demo\\Session01\\MonolithicApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MonolithicApp\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:52:03.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\CURSOSNETPERSONAL2025\\Class01\\Demo\\Session01\\MonolithicApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MonolithicApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\CURSOSNETPERSONAL2025\\Class01\\Demo\\Session01\\MonolithicApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MonolithicApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T17:51:08.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

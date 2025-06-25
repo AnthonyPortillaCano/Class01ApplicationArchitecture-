@@ -1,0 +1,6 @@
+@MonolithicApp_HostAddress = http://localhost:5016
+
+GET {{MonolithicApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
