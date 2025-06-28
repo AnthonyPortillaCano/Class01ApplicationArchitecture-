@@ -90,6 +90,13 @@ namespace SOLIDExamples
             }
             return 0m;
         }
+
+        // ✅ Extension point: Add new discount strategies without modifying existing code
+        // This method allows us to add new strategies at runtime
+        public void AddDiscountStrategy(string customerType, DiscountStrategy strategy)
+        {
+            _strategies[customerType.ToLower()] = strategy;
+        }
     }
     // Extension point:Add new discount strategies without modifying existing code
     // this method allows us to add new strategies at runtime
